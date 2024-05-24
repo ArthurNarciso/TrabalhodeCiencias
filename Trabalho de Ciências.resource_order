@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings":[],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"rm_Felipe","order":2,"path":"rooms/rm_Felipe/rm_Felipe.yy",},
+    {"name":"rm_Joao","order":1,"path":"rooms/rm_Joao/rm_Joao.yy",},
+    {"name":"rm_menu","order":3,"path":"rooms/rm_menu/rm_menu.yy",},
+  ],
 }
